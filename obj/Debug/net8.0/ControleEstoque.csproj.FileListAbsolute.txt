@@ -1,0 +1,14 @@
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\bin\Debug\net8.0\ControleEstoque.exe
+C:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\bin\Debug\net8.0\ControleEstoque.deps.json
+C:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\bin\Debug\net8.0\ControleEstoque.runtimeconfig.json
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\bin\Debug\net8.0\ControleEstoque.dll
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\bin\Debug\net8.0\ControleEstoque.pdb
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.dll
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.dll
+c:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.pdb
+C:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\i3-7Ger\Desktop\estudo_csharp\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.dll
